@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: example EmonCMS module\n"
+"POT-Creation-Date: 2019-09-09 16:59+0100\n"
+"PO-Revision-Date: 2019-09-09 17:13+0100\n"
+"Last-Translator: Emrys Roberts <emrys@openenergymonitor.org>\n"
+"Language-Team: \n"
+"Language: cy_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: example_controller.php:22
+msgid "Example Module"
+msgstr "Engraifft o Fodiwl"
+
+#: example_controller.php:23 example_menu.php:20
+msgid "Menu Item 1"
+msgstr "Tudalen 1"
+
+#: example_controller.php:24 example_menu.php:24
+msgid "Menu Item 2"
+msgstr "Tudalen 2"
+
+#: example_controller.php:25 example_menu.php:28
+msgid "Menu Item 3"
+msgstr "Tudalen 3"
+
+#: example_menu.php:11
+msgid "Example"
+msgstr "Engraifft"
+
+#: example_menu.php:32
+msgid "New"
+msgstr "Newydd"
+
+#: example_view.php:92
+#, fuzzy
+msgid "Close"
+msgstr "Cau"

@@ -27,4 +27,12 @@ class Example {
         // $result = $this->mysqli->query("SELECT * FROM example WHERE `userid`='$userid'");
     }
 
+    /**
+     * example model response
+     *
+     * @return {string}
+     */
+    public function version() {
+        return "Example EmonCMS Module v0.1";
+    }
 }

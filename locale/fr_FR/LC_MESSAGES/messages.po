@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: example EmonCMS module\n"
+"POT-Creation-Date: 2019-09-09 16:59+0100\n"
+"PO-Revision-Date: 2019-09-10 10:38+0100\n"
+"Last-Translator: Emrys Roberts <emrys@openenergymonitor.org>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: example_controller.php:22
+msgid "Example Module"
+msgstr "Exemple de module"
+
+#: example_controller.php:23 example_menu.php:20
+msgid "Menu Item 1"
+msgstr "Élément de menu 1"
+
+#: example_controller.php:24 example_menu.php:24
+msgid "Menu Item 2"
+msgstr "Élément de menu 2"
+
+#: example_controller.php:25 example_menu.php:28
+msgid "Menu Item 3"
+msgstr "Élément de menu 3"
+
+#: example_menu.php:11
+msgid "Example"
+msgstr "Exemple"
+
+#: example_menu.php:32
+msgid "New"
+msgstr "Nouveau"
+
+#: example_view.php:92
+msgid "Close"
+msgstr "Fermer"
